@@ -1,0 +1,1 @@
+Ir ao Templo,500,False

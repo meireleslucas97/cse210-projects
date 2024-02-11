@@ -1,0 +1,2 @@
+Templo|1x por mês|400|False
+Comer |3x ao dia|1000|False
